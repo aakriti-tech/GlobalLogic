@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>First Web App</title>
+<style>
+background: pink;
+</style>
+</head>
+<body>
+
+<h1>Hello folks!</h1>
+
+</body>
+</html>

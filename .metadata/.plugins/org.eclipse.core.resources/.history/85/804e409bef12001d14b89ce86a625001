@@ -1,0 +1,8 @@
+package com.connection.sql;
+
+public class MyJdbc {
+	public static void main(String[] args) {
+		System.out.println("fyf");
+	}
+
+}
